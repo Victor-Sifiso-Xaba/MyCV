@@ -1,5 +1,4 @@
-# MyWebsite
-# Online Portfolio of Victor Sifiso Xaba
+# MyCV
 
 ![Victor Sifiso Xaba](https://assets-global.website-files.com/643fd2f5c9e4ed95e1bda9ef/653a2f453b0859b92ada5bd1_Victor-Sifiso-Xaba-p-500.png)
 
