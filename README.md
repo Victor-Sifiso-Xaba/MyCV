@@ -19,7 +19,7 @@ This repository contains the static website for Victor Sifiso Xaba's online port
 
 ## Deployment
 
-The website is deployed using GitHub Pages and can be accessed at [Online Portfolio of Victor Sifiso Xaba](https://victor-sifiso-xaba.github.io).
+The website is deployed using GitHub Pages and can be accessed at [Online Portfolio of Victor Sifiso Xaba](https://victor-sifiso-xaba.github.io/MyCV).
 
 ## How to Use
 
